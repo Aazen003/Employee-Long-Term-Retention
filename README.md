@@ -1,4 +1,3 @@
-````markdown
 # Employee Attrition Prediction
 
 This project builds an end-to-end machine learning system for predicting employee attrition using tabular HR data from the IBM HR Analytics dataset. The goal is to move from raw employee records to a usable prediction service by covering the full workflow: data loading, exploratory analysis, preprocessing, model training, model comparison, imbalance handling, hyperparameter tuning, interpretation, artifact saving, and API-based inference.
@@ -41,7 +40,7 @@ The project follows this pipeline:
 This is what makes the project end to end: the same fitted pipeline used in training is saved and reused during inference.
 
 ## Repository structure
-
+````
 ```text
 employee-attrition-ml/
 ├── app/
