@@ -90,7 +90,7 @@ def _demo_sample() -> dict[str, Any]:
         "YearsAtCompany": 4,
         "YearsInCurrentRole": 2,
         "YearsSinceLastPromotion": 1,
-        "YearsWithCurrManager": 2,
+        "YearsWithCurrManager": 2
     }
 
 
